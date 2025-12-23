@@ -1,0 +1,12 @@
+h1 {
+    background-color: antiquewhite;
+}
+h3 {
+    background-color: aquamarine;
+}
+p {
+    color: blueviolet;
+}
+h1 + h3 {
+    color: bisque;
+}
