@@ -1,0 +1,20 @@
+body {
+    background-color: #f5f5dd;
+}
+div {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+.box1 {
+    background-color: rgba(0, 0, 0, 1);
+}
+.box2 {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.box3 {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.box4 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
