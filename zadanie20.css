@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+h1 {
+    background-color: aliceblue;
+}
+.paragraf1 {
+    background-color: antiquewhite;
+}
+h2 {
+    background-color: azure;
+}
+.paragraf2 {
+    background-color: blanchedalmond;
+}
+ol {
+    background-color: bisque;
+}
+.li1 {
+    color: aqua;
+}
+.li2 {
+    color: blue;
+}
+.li3 {
+    color: blueviolet;
+}
+.li4 {
+    color: brown;
+}
+.li5 {
+    color: black;
+}
